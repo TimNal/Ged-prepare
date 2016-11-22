@@ -1,7 +1,7 @@
 '''
 Created on 1.11.2016
 
-@author: Timo N
+@author: Timo Nallikarihttp://download.eclipse.org/egit/updates
 '''
 
 import time
